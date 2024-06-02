@@ -1,0 +1,4 @@
+1717355916842 : GET : /api/users 
+1717355921365 : GET : /api/users/1 
+1717355996438 : GET : /api/users/1 from ip : ::ffff:127.0.0.1 
+1717356001184 : GET : /api/users/2 from ip : ::ffff:127.0.0.1 
